@@ -14,15 +14,19 @@ export default function Product() {
         <div>
           <h2>About WorldWide.</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo est
-            dicta illum vero culpa cum quaerat architecto sapiente eius non
-            soluta, molestiae nihil laborum, placeat debitis, laboriosam at fuga
-            perspiciatis?
+            Welcome to our website, the ultimate destination for travelers and
+            explorers alike! We are passionate about providing a platform where
+            you can record and cherish the places you have visited. Our website
+            offers a seamless and intuitive experience, allowing you to
+            effortlessly document your adventures, create personalized travel
+            logs, and share your experiences with friends and fellow wanderers.
           </p>
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis
-            doloribus libero sunt expedita ratione iusto, magni, id sapiente
-            sequi officiis et.
+            Whether you're a globetrotter, weekend adventurer, or simply someone
+            who loves to explore their local surroundings, our website is here
+            to help you capture and relive your most cherished memories. Join
+            our vibrant community of travelers and embark on a journey of
+            discovery today!
           </p>
         </div>
       </section>

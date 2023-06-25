@@ -15,9 +15,11 @@ export default function Product() {
             Just $9/month.
           </h2>
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae vel
-            labore mollitia iusto. Recusandae quos provident, laboriosam fugit
-            voluptatem iste.
+            Our website pricing is designed to be affordable and accessible for
+            users who want to record the places they have visited. With our
+            flexible plans, you can choose the subscription that best fits your
+            needs and budget. Start documenting your travel adventures today and
+            keep your memories alive with our user-friendly platform.
           </p>
         </div>
         <img src="img-2.jpg" alt="overview of a large city with skyscrapers" />
